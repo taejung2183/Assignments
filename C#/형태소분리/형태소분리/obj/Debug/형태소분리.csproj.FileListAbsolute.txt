@@ -1,0 +1,6 @@
+C:\Users\atj\source\repos\형태소분리\형태소분리\bin\Debug\형태소분리.exe
+C:\Users\atj\source\repos\형태소분리\형태소분리\bin\Debug\형태소분리.pdb
+C:\Users\atj\source\repos\형태소분리\형태소분리\obj\Debug\형태소분리.csproj.CoreCompileInputs.cache
+C:\Users\atj\source\repos\형태소분리\형태소분리\obj\Debug\형태소분리.exe
+C:\Users\atj\source\repos\형태소분리\형태소분리\obj\Debug\형태소분리.pdb
+C:\Users\atj\source\repos\형태소분리\형태소분리\obj\Debug\형태소분리.csprojAssemblyReference.cache

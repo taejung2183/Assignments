@@ -1,0 +1,6 @@
+﻿  Piecewise.cpp
+c:\users\atj\source\repos\piecewise_linear_contrast_stretching\piecewise_linear_contrast_stretching\piecewise.cpp(83): warning C4156: 'delete' 배열 형식을 사용하지 않고 배열 식을 삭제했습니다. 배열 형식이 대체됩니다.
+c:\users\atj\source\repos\piecewise_linear_contrast_stretching\piecewise_linear_contrast_stretching\piecewise.cpp(83): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+c:\users\atj\source\repos\piecewise_linear_contrast_stretching\piecewise_linear_contrast_stretching\piecewise.cpp(84): warning C4156: 'delete' 배열 형식을 사용하지 않고 배열 식을 삭제했습니다. 배열 형식이 대체됩니다.
+c:\users\atj\source\repos\piecewise_linear_contrast_stretching\piecewise_linear_contrast_stretching\piecewise.cpp(84): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+  Piecewise_Linear_Contrast_Stretching.vcxproj -> C:\Users\atj\source\repos\Piecewise_Linear_Contrast_Stretching\x64\Debug\Piecewise_Linear_Contrast_Stretching.exe

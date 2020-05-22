@@ -1,0 +1,3 @@
+﻿  HW2.cpp
+c:\users\atj\source\repos\디영처hw2\디영처hw2\hw2.cpp(217): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  디영처HW2.vcxproj -> C:\Users\atj\source\repos\디영처HW2\x64\Debug\디영처HW2.exe

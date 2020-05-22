@@ -1,0 +1,3 @@
+﻿  Bunny.cpp
+c:\users\atj\source\repos\lightingbunny\lightingbunny\bunny.cpp(396): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  LightingBunny.vcxproj -> C:\Users\atj\source\repos\LightingBunny\Debug\LightingBunny.exe

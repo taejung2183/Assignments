@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  RawInfoDlg.cpp
+  Viewer.cpp
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\opencv.hpp': No such file or directory
+  ViewerDlg.cpp
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\opencv.hpp': No such file or directory

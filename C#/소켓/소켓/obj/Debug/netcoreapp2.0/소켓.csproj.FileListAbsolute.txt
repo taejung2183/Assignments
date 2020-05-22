@@ -1,0 +1,11 @@
+C:\Users\taeju\source\repos\소켓\소켓\bin\Debug\netcoreapp2.0\소켓.deps.json
+C:\Users\taeju\source\repos\소켓\소켓\bin\Debug\netcoreapp2.0\소켓.runtimeconfig.json
+C:\Users\taeju\source\repos\소켓\소켓\bin\Debug\netcoreapp2.0\소켓.runtimeconfig.dev.json
+C:\Users\taeju\source\repos\소켓\소켓\bin\Debug\netcoreapp2.0\소켓.dll
+C:\Users\taeju\source\repos\소켓\소켓\bin\Debug\netcoreapp2.0\소켓.pdb
+C:\Users\taeju\source\repos\소켓\소켓\obj\Debug\netcoreapp2.0\소켓.csproj.CoreCompileInputs.cache
+C:\Users\taeju\source\repos\소켓\소켓\obj\Debug\netcoreapp2.0\소켓.AssemblyInfoInputs.cache
+C:\Users\taeju\source\repos\소켓\소켓\obj\Debug\netcoreapp2.0\소켓.AssemblyInfo.cs
+C:\Users\taeju\source\repos\소켓\소켓\obj\Debug\netcoreapp2.0\소켓.dll
+C:\Users\taeju\source\repos\소켓\소켓\obj\Debug\netcoreapp2.0\소켓.pdb
+C:\Users\taeju\source\repos\소켓\소켓\obj\Debug\netcoreapp2.0\소켓.csprojResolveAssemblyReference.cache

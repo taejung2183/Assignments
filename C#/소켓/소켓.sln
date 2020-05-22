@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "소켓", "소켓\소켓.csproj", "{490E8B60-F590-4CC7-AD84-F7BA4340DF45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "소켓_클라이언트", "소켓_클라이언트\소켓_클라이언트.csproj", "{097FDFA9-905A-4A75-B328-56C5A05DDD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490E8B60-F590-4CC7-AD84-F7BA4340DF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490E8B60-F590-4CC7-AD84-F7BA4340DF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490E8B60-F590-4CC7-AD84-F7BA4340DF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490E8B60-F590-4CC7-AD84-F7BA4340DF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097FDFA9-905A-4A75-B328-56C5A05DDD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097FDFA9-905A-4A75-B328-56C5A05DDD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097FDFA9-905A-4A75-B328-56C5A05DDD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097FDFA9-905A-4A75-B328-56C5A05DDD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF0957C-06ED-4295-B9A3-3B4E9CD28D18}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\taeju\source\repos\스레드\스레드\bin\Debug\스레드.exe.config
+C:\Users\taeju\source\repos\스레드\스레드\bin\Debug\스레드.exe
+C:\Users\taeju\source\repos\스레드\스레드\bin\Debug\스레드.pdb
+C:\Users\taeju\source\repos\스레드\스레드\obj\Debug\스레드.csprojResolveAssemblyReference.cache
+C:\Users\taeju\source\repos\스레드\스레드\obj\Debug\스레드.Form1.resources
+C:\Users\taeju\source\repos\스레드\스레드\obj\Debug\스레드.Properties.Resources.resources
+C:\Users\taeju\source\repos\스레드\스레드\obj\Debug\스레드.csproj.GenerateResource.cache
+C:\Users\taeju\source\repos\스레드\스레드\obj\Debug\스레드.csproj.CoreCompileInputs.cache
+C:\Users\taeju\source\repos\스레드\스레드\obj\Debug\스레드.exe
+C:\Users\taeju\source\repos\스레드\스레드\obj\Debug\스레드.pdb

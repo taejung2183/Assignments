@@ -1,0 +1,24 @@
+﻿  ViewerDlg.cpp
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(497): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(537): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(578): warning C4244: '=': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=unsigned char
+          ]
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(633): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(634): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(636): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(637): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(667): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(668): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(740): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(1038): warning C4244: 'return': '_Tp'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(1298): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(1509): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\atj\source\repos\viewer\viewer\viewerdlg.cpp(1510): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Viewer.vcxproj -> C:\Users\atj\source\repos\Viewer\x64\Debug\Viewer.exe

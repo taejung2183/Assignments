@@ -1,0 +1,6 @@
+C:\Users\taeju\source\repos\패킷통신\패킷통신\bin\Debug\패킷통신.dll
+C:\Users\taeju\source\repos\패킷통신\패킷통신\bin\Debug\패킷통신.pdb
+C:\Users\taeju\source\repos\패킷통신\패킷통신\obj\Debug\패킷통신.csprojResolveAssemblyReference.cache
+C:\Users\taeju\source\repos\패킷통신\패킷통신\obj\Debug\패킷통신.csproj.CoreCompileInputs.cache
+C:\Users\taeju\source\repos\패킷통신\패킷통신\obj\Debug\패킷통신.dll
+C:\Users\taeju\source\repos\패킷통신\패킷통신\obj\Debug\패킷통신.pdb

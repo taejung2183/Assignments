@@ -1,0 +1,10 @@
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\bin\Debug\채팅프로그램.exe.config
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\bin\Debug\채팅프로그램.exe
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\bin\Debug\채팅프로그램.pdb
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\obj\Debug\채팅프로그램.csprojResolveAssemblyReference.cache
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\obj\Debug\채팅프로그램.Form1.resources
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\obj\Debug\채팅프로그램.Properties.Resources.resources
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\obj\Debug\채팅프로그램.csproj.GenerateResource.cache
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\obj\Debug\채팅프로그램.csproj.CoreCompileInputs.cache
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\obj\Debug\채팅프로그램.exe
+C:\Users\taeju\source\repos\채팅프로그램\채팅프로그램\obj\Debug\채팅프로그램.pdb

@@ -1,0 +1,4 @@
+﻿  Torus.cpp
+c:\users\atj\source\repos\drawing_torus\drawing_torus\torus.cpp(642): warning C4101: 'polyNormalVec' :참조되지 않은 지역 변수입니다.
+c:\users\atj\source\repos\drawing_torus\drawing_torus\torus.cpp(764): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Drawing_Torus.vcxproj -> C:\Users\atj\source\repos\Drawing_Torus\Debug\Drawing_Torus.exe
